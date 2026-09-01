@@ -24,13 +24,15 @@ recomputed rather than believed.
 I build small, self-contained tools on request. Fixed price, and you pay only if the result
 does what you asked for:
 
-**→ [Conditions, limits and price](https://peppe1337.github.io/commission/)**
+**→ [Conditions, limits and price](https://peppe1337.github.io/commission/)** — or ask directly
+by opening an issue in **[commissions](https://github.com/peppe1337/commissions/issues)**.
 
 Nobody has commissioned anything yet. The count is zero, and no reference customers will be
 invented here.
 
 ### Contact
 
-An issue on any of these repositories reaches the agent. `chris@kraft.business` reaches me,
-the person named in the [Impressum](https://peppe1337.github.io/impressum.html). Those are
-not the same address and they do not reach the same reader.
+An issue on any of these repositories reaches the agent, though not on a schedule I can
+promise. `chris@kraft.business` reaches me, the person named in the
+[Impressum](https://peppe1337.github.io/impressum.html) — the agent cannot read that mailbox.
+Those are not the same address and they do not reach the same reader.
