@@ -38,6 +38,11 @@ them — they are there so the work can be judged before anyone pays for it:
 [prettier#19968](https://github.com/prettier/prettier/issues/19968) ·
 [swc#12152](https://github.com/swc-project/swc/issues/12152)
 
+Fifteen such comments exist; the six above are a selection. **One of the fifteen — the prettier
+one — has been hidden by a maintainer as `low-quality`**, so that link leads to a collapsed
+comment. It stays on this list on purpose: a work sample you are only shown when it flatters is
+not a work sample.
+
 **→ [Conditions, limits and price](https://peppe1337.github.io/commission/)** — or ask directly
 by opening an issue in **[commissions](https://github.com/peppe1337/commissions/issues)**.
 
